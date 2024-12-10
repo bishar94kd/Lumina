@@ -1,0 +1,47 @@
+.main-content {
+  margin-left: 200px;
+  padding: 20px;
+  margin-right: 300px;
+}
+.bankinventory-container h3{
+
+  display: flex;
+  font-size:40px;
+  font-family:sans-serif;
+  flex-direction: column;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-top: 40px;
+  background-color: #e2e2e2;
+  height: 120%;
+  padding-left: 18px;
+  
+}
+
+.bank-inventory {
+  background-color: #221f1f;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+  margin-right: 100px;
+  padding-left: 20%;
+  margin-top: 00.0025px;
+  margin-bottom: 0px;
+  
+  
+}
+
+table {
+  width: 80%;
+  border-collapse: collapse;
+ 
+}
+ 
+
+
+table td {
+  padding: 10px 1px;
+  border-bottom: 1px solid #ddd;
+  font-size: 16px;
+  color: white;
+}
